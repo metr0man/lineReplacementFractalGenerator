@@ -1,0 +1,9 @@
+click to make lines, hit enter to iterate
+
+r - new fractal
+
+escape - quit program
+
+
+
+the only in code parameters are the width and height of the window (in pixels)
